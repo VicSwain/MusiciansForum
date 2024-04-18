@@ -1,0 +1,82 @@
+[
+    {
+        "venue_name": "Venue 1",
+        "description": "Description for Venue 1",
+        "imageUrl": "https://example.com/image1.jpg",
+        "user_id": 1,
+        "venue_type": "Indoor",
+        "performance_allowed": "Live music, theater"
+    },
+    {
+        "venue_name": "Venue 2",
+        "description": "Description for Venue 2",
+        "imageUrl": "https://example.com/image2.jpg",
+        "user_id": 2,
+        "venue_type": "Outdoor",
+        "performance_allowed": "Outdoor events, festivals"
+    },
+    {
+        "venue_name": "Venue 3",
+        "description": "Description for Venue 3",
+        "imageUrl": "https://example.com/image3.jpg",
+        "user_id": 3,
+        "venue_type": "Indoor",
+        "performance_allowed": "Conferences, seminars"
+    },
+    {
+        "venue_name": "Venue 4",
+        "description": "Description for Venue 4",
+        "imageUrl": "https://example.com/image4.jpg",
+        "user_id": 4,
+        "venue_type": "Outdoor",
+        "performance_allowed": "Weddings, parties"
+    },
+    {
+        "venue_name": "Venue 5",
+        "description": "Description for Venue 5",
+        "imageUrl": "https://example.com/image5.jpg",
+        "user_id": 5,
+        "venue_type": "Indoor",
+        "performance_allowed": "Exhibitions, trade shows"
+    },
+    {
+        "venue_name": "Venue 6",
+        "description": "Description for Venue 6",
+        "imageUrl": "https://example.com/image6.jpg",
+        "user_id": 6,
+        "venue_type": "Outdoor",
+        "performance_allowed": "Sporting events"
+    },
+    {
+        "venue_name": "Venue 7",
+        "description": "Description for Venue 7",
+        "imageUrl": "https://example.com/image7.jpg",
+        "user_id": 7,
+        "venue_type": "Indoor",
+        "performance_allowed": "Art exhibitions, galleries"
+    },
+    {
+        "venue_name": "Venue 8",
+        "description": "Description for Venue 8",
+        "imageUrl": "https://example.com/image8.jpg",
+        "user_id": 8,
+        "venue_type": "Outdoor",
+        "performance_allowed": "Carnivals, fairs"
+    },
+    {
+        "venue_name": "Venue 9",
+        "description": "Description for Venue 9",
+        "imageUrl": "https://example.com/image9.jpg",
+        "user_id": 9,
+        "venue_type": "Indoor",
+        "performance_allowed": "Concerts, music festivals"
+    },
+    {
+        "venue_name": "Venue 10",
+        "description": "Description for Venue 10",
+        "imageUrl": "https://example.com/image10.jpg",
+        "user_id": 10,
+        "venue_type": "Outdoor",
+        "performance_allowed": "Food festivals, markets"
+    }
+]
