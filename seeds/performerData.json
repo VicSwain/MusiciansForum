@@ -1,0 +1,75 @@
+[
+    {
+        "performer_name": "Performer 1",
+        "description": "Description for Performer 1",
+        "imageUrl": "https://example.com/image1.jpg",
+        "user_id": 1,
+        "performer_type": "Musician",
+        "genre": "Rock",
+        "sub_genre": "Alternative"
+    },
+    {
+        "performer_name": "Performer 2",
+        "description": "Description for Performer 2",
+        "imageUrl": "https://example.com/image2.jpg",
+        "user_id": 2,
+        "performer_type": "Comedian"
+    },
+    {
+        "performer_name": "Performer 3",
+        "description": "Description for Performer 3",
+        "user_id": 3,
+        "performer_type": "Dancer",
+        "genre": "Hip Hop"
+    },
+    {
+        "performer_name": "Performer 4",
+        "description": "Description for Performer 4",
+        "imageUrl": "https://example.com/image4.jpg",
+        "user_id": 4,
+        "performer_type": "Actor"
+    },
+    {
+        "performer_name": "Performer 5",
+        "description": "Description for Performer 5",
+        "user_id": 5,
+        "performer_type": "Magician",
+        "genre": "Illusion"
+    },
+    {
+        "performer_name": "Performer 6",
+        "description": "Description for Performer 6",
+        "imageUrl": "https://example.com/image6.jpg",
+        "user_id": 6,
+        "performer_type": "Poet"
+    },
+    {
+        "performer_name": "Performer 7",
+        "description": "Description for Performer 7",
+        "imageUrl": "https://example.com/image7.jpg",
+        "user_id": 7,
+        "performer_type": "Visual Artist"
+    },
+    {
+        "performer_name": "Performer 8",
+        "description": "Description for Performer 8",
+        "user_id": 8,
+        "performer_type": "Singer",
+        "genre": "Pop",
+        "sub_genre": "R&B"
+    },
+    {
+        "performer_name": "Performer 9",
+        "description": "Description for Performer 9",
+        "imageUrl": "https://example.com/image9.jpg",
+        "user_id": 9,
+        "performer_type": "Band",
+        "genre": "Jazz"
+    },
+    {
+        "performer_name": "Performer 10",
+        "description": "Description for Performer 10",
+        "user_id": 10,
+        "performer_type": "Acrobat"
+    }
+]
