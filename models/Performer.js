@@ -48,7 +48,7 @@ Performer.init(
             type: DataTypes.STRING,
             allowNull: true,
         }
-        // Would like to add song/visual artist column here
+        // Would like to add song/visual art column here
         // add upcoming events 
     },
     {
