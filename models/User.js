@@ -39,7 +39,9 @@ User.init(
     
     },
     {
+        // hooks are to be done before the information is updated prior to being saved to the db 
         hooks: {
+            // beforeCreate is specific to sequelize newUserData is a variable defined within the arrow function 
             beforeCreate: async (newUserData) => {
                 newUserData.password = await bcrypt.hash(newUserData.password, 10);
                 return newUserData;
